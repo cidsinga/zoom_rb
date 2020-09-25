@@ -16,7 +16,7 @@ module Zoom
             not_store_meeting_topic
             require_password_for_instant_meetings
             require_password_for_pmi_meetings
-            ,]
+            ],
           in_meeting: %i[
             e2e_encryption
             chat
